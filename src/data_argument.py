@@ -66,7 +66,4 @@ def CutMix(inputs, targets, beta):
 
     return inputs_update, label
 
-# ===================================================================
-def mosaic(inputs, targets, num_classes,):
-
 
